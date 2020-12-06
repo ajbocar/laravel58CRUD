@@ -1,3 +1,6 @@
+## About this App
+based on tutorial from [this site.](https://www.w3adda.com/blog/laravel-5-8-crud-tutorial-with-example-step-by-step-tutorial-for-beginners)
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
